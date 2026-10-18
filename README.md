@@ -32,11 +32,14 @@ Colaboro en el desarrollo de los sitios y productos de la empresa y de sus clien
 |---|---|---|
 | Freedom Glass | Sitio de una empresa de remodelación en Texas, EE. UU., con migración de dominio y SEO técnico | [Sitio](https://freedomglasstxshowergroupllc.com) |
 | GI Group LATAM | Sitio corporativo con escenas 3D y animación de marca | [Sitio](https://gigrouplatam.com) |
-| Caney | Gestión ganadera doble propósito que funciona sin conexión en el campo | [Demo](https://hato-app.vercel.app) |
-| Kuadre | Control interno de barra para un café de especialidad | [Demo](https://cuadre-demo-hazel.vercel.app) |
-| Katana Creativa | Sitio de una agencia de marketing | [Demo](https://katana-creativa.vercel.app) |
-| Pay It Forward | Sitio de una ONG que opera en Venezuela | [Demo](https://pay-it-forward-ve-2.vercel.app) |
-| Diversity Showers, Psicoven, Núcleo ENII y Café Vzla | Sitios web corporativos | |
+| Caney | Gestión ganadera doble propósito que funciona sin conexión en el campo | [Demo](https://caney-demo.vercel.app) |
+| Kuadre | ERP en la nube para empresas venezolanas, con facturación, IVA, IGTF y libros del SENIAT | [Demo](https://kuadre-demo.gigrouplatam.com) |
+| Batuta | Control de inventario para barras de café, venta de alimentos y repuestos de moto | [Sitio](https://batuta.gigrouplatam.com) |
+| Captación de clientes | Herramienta interna que busca prospectos en EE. UU. y redacta correos con IA, con aprobación humana | Uso interno |
+| Katana Creativa | Sitio de una agencia de marketing, en desarrollo | [Demo](https://katana-creativa.vercel.app) |
+| Pay It Forward | Propuestas de diseño y plan digital para una ONG que opera en Venezuela | [Propuesta](https://pay-it-forward-ve-2.vercel.app) |
+| Diversity Showers | Sitio de un fabricante de vidrio en Dallas, EE. UU. | [Sitio](https://diversityshowers.com) |
+| Psicoven y Núcleo ENII | Sitios web | |
 
 ### Contacto
 
