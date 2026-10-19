@@ -43,4 +43,5 @@ Colaboro en el desarrollo de los sitios y productos de la empresa y de sus clien
 
 ### Contacto
 
-Correo: arondon33@gmail.com
+Correo: arondon33@gmail.com  
+LinkedIn: [linkedin.com/in/darvinhernandez](https://www.linkedin.com/in/darvinhernandez)
